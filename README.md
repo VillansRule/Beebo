@@ -13,7 +13,7 @@ This Bash script allows you to decrypt encrypted text using different cipher tec
 2. Navigate to the directory containing the script:
 
     ```bash
-    cd cipher-decrypter
+    cd Beebo
     ```
 
 3. Ensure all files and directories are executable:
